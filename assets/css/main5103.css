@@ -599,7 +599,7 @@ h6,
 .display-2,
 .heading-sm-1 {
   font-family: "Quicksand", sans-serif;
-  color: #253D4E;
+  color: #ffc107;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -1650,7 +1650,7 @@ input.qty-val {
   border: 1px solid;
   padding: 0;
   font-size: 0px;
-  border-color: #253D4E;
+  border-color: #dc3545;
   background: none;
   transition: all 0.3s linear;
 }
@@ -1658,8 +1658,8 @@ input.qty-val {
   background: #BCE3C9;
 }
 .dot-style-1 ul li.slick-active button {
-  background: #3BB77E;
-  border-color: #3BB77E;
+  background: #ffc107;
+  border-color: #ffc107;
 }
 .dot-style-1.dot-style-1-position-1 ul {
   position: absolute;
@@ -2180,7 +2180,7 @@ input.qty-val {
   color: #253D4E;
 }
 .nav-tabs.links .nav-link:hover, .nav-tabs.links .nav-link.active {
-  color: #3BB77E;
+  color: #dc3545;
 }
 .nav-tabs.no-border {
   border: none;
@@ -3474,7 +3474,7 @@ table .product-thumbnail img {
 .product-cart-wrap .product-content-wrap .product-price span {
   font-size: 18px;
   font-weight: bold;
-  color: #3BB77E;
+  color: #dc3545;
 }
 .product-cart-wrap .product-content-wrap .product-price span.new-price {
   color: #3BB77E;
