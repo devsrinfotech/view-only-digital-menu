@@ -3444,7 +3444,7 @@ table .product-thumbnail img {
   background-color: #f59758;
 }
 .product-cart-wrap .product-content-wrap {
-  padding: 0 20px 20px 20px;
+  padding: 0 0px 5px 0px;
 }
 .product-cart-wrap .product-content-wrap .product-category {
   margin-bottom: 5px;
@@ -3527,7 +3527,7 @@ table .product-thumbnail img {
 .product-cart-wrap .product-card-bottom {
   display: flex;
   justify-content: center;
-  margin-top: 15px;
+  margin-top: 5px;
 }
 .product-cart-wrap .product-card-bottom .add-cart {
   cursor: pointer;
@@ -4261,7 +4261,7 @@ table .product-thumbnail img {
   margin: 15px 0 30px 0;
 }
 .detail-info .product-price .current-price {
-  font-size: 58px;
+  font-size: 30px;
   text-decoration: none;
   font-weight: 900;
 }
@@ -10239,6 +10239,7 @@ footer .hotline img {
   }
   .banner-left-icon,
   .banner-img {
+    margin-top: 15px;
     margin-bottom: 15px;
   }
   .header-action-2 .header-action-icon-2:last-child {
